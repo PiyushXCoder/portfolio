@@ -3,8 +3,8 @@ const resumeData = {
   contact: {
     phone: "+91 7903659239",
     email: "piyushxcoder@gmail.com",
-    portfolio_url: "piyushxcoder.in/proof-of-work",
-    linkedin_url: "linkedin.com/in/piyushxcoder",
+    portfolio_url: "https://piyushxcoder.in/proof-of-work",
+    linkedin_url: "https://linkedin.com/in/piyushxcoder",
   },
   summary:
     "Results-driven Software Developer with an year of internship experience specializing in Rust, TypeScript, and backend systems. Proven record of optimizing infrastructure, automating deployments, and integrating AI-based solutions to drive efficiency and scalability. Skilled in building performant APIs, securing cloud environments, and delivering measurable improvements in speed and reliability.",
